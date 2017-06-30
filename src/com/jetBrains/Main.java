@@ -1,7 +1,7 @@
 package com.jetBrains;
 import java.util.Scanner;
 //Authors: Math and Andres
-//Program outputs the square of the numbers 0 to the number chosen by the user.
+//Program outputs the square of the numbers 1 to the number chosen by the user.
 
 public class Main {
 
